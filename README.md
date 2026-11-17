@@ -257,12 +257,12 @@ Durante las pruebas se comprobó que, al cerrar y volver a ejecutar el programa,
 
 | Prueba | Evidencia |
 |----------|-----------|
-| Registrar dos zapatos | evidencias/registro_zapatos.png |
-| Consultar todos los zapatos | evidencias/listado_zapatos.png |
-| Buscar zapato por ID | evidencias/busqueda_id.png |
-| Actualizar precio | evidencias/actualizar_precio.png |
-| Eliminar zapato | evidencias/eliminar_zapato.png |
-| Persistencia de datos | evidencias/persistencia.png |
+| Registrar dos zapatos | registro_zapatos.png |
+| Consultar todos los zapatos | listado_zapatos.png |
+| Buscar zapato por ID | busqueda_id.png |
+| Actualizar precio | actualizar_precio.png |
+| Eliminar zapato | eliminar_zapato.png |
+| Persistencia de datos | persistencia.png |
 
 ---
 
